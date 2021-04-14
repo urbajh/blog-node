@@ -1,0 +1,15 @@
+.btnInfo{
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+.thumbnail{
+	padding:0px;
+}
+img{
+	width:100%;
+}
+
+.btnInLine{
+	display:inline-block;
+}
